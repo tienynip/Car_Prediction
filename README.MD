@@ -1,4 +1,4 @@
-DỰ ĐOÁN GIÁ XEXE
+DỰ ĐOÁN GIÁ XE
 - Ứng dụng web sử dụng **Flask** để dự đoán giá xe dựa trên thông tin đầu vào như năm sản xuất, số km đã đi, loại nhiên liệu, hộp số, v.v.  
 - Mô hình Machine Learning được lưu trữ trong 'model.pkl' và có thể chọn nhiều thuật toán khác nhau để so sánh hiệu suất.
 
